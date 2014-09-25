@@ -16,4 +16,4 @@ This project requires [Vagrant](http://www.vagrantup.com/) in order to work. Vag
 4. [Happy hacking!](https://www.youtube.com/v/3o82P4V1vu0?start=1523&end=1524&version=3&autoplay=1)
 
 ##Extending
-If vagrant-databox is missing a crucial language or library, create a GitHub issue telling me what you need and I can add it to the initialization script. Or you can just fork the project and add it yourself, then send it back as a pull request. Whatever floats your boat.
+If vagrant-databox is missing something that you think it should have (language, library, software, etc.), create a GitHub issue telling me what you need and I can add it to the initialization script. Or you can just fork the project and add it yourself, then send it back as a pull request. Whatever floats your boat.
